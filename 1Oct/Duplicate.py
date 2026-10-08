@@ -7,3 +7,4 @@ for i in list :
     if i not in newlist:
         newlist.append(i)
 print(newlist)
+
