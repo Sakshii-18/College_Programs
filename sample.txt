@@ -1,0 +1,6 @@
+The assignment contains the file file handling questions.
+Hello World!!
+This is MCA Course
+Welcome to Python Programming.
+This is Python Assignment 1.
+The assignment contains file handling questions.
